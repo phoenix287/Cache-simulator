@@ -7,7 +7,7 @@ replacement, and an inclusive L1/L2 hierarchy.
 ## What I wrote vs. provided skeleton
 
 `cache.h`/`cache.cpp` (the cache itself) and `cpuCaches.h`/`cpuCaches.cpp`
-(the read/write logic coordinating L1, L2, and memory) are my
+(the read/write logic coordinating L1, L2, and memory) are me and my partner's
 implementation. `cacheSim.cpp` is mostly course-provided skeleton for
 argument parsing and reading the trace file -- the final few lines
 (computing and printing the miss rates and average access time) are mine.
