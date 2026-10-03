@@ -60,4 +60,4 @@ access time in cycles).
 
 ## Credits
 
-Built with Roaia Mahajna for Computer Structure course,semester Winter 2025-2026.
+Built with Roaia Mahajna for Computer Structure course, semester Winter 2025-2026.
